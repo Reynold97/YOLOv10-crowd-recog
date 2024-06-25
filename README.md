@@ -1,5 +1,7 @@
 ### Enviroment 
 
+The repo is working with cuda 11.8
+
 1-Install miniconda on linux
 
 ```bash
